@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "22994097356",
+    "firebase_url": "https://mvp-project-b196c.firebaseio.com",
+    "project_id": "mvp-project-b196c",
+    "storage_bucket": "mvp-project-b196c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22994097356:android:48b4c774fcc9cca4",
+        "android_client_info": {
+          "package_name": "com.docotel.latihanmvp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22994097356-6726ji12r19i7oetj6de8v1pra5c75s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.docotel.latihanmvp2",
+            "certificate_hash": "bcff50f4bbcd958379a078af49dd7f2ae7e76c0f"
+          }
+        },
+        {
+          "client_id": "22994097356-416g9j7shqst0ngem5etlrj1enfn7s62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTjw811hN0voDBU-jMVjk_wNOp61sDUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22994097356-416g9j7shqst0ngem5etlrj1enfn7s62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
